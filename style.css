@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background {
+    background-image: url('c1.jfif'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust the size of the background image */
+    background-position: center; /* Center the background image */
+    height: 10%; /* Set the height to the viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Text color on top of the background */
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    size: 100 %;
+}
+h1, p {
+    margin: 0;
+}
+.abc {
+    size: 200%;
+    color: rgb(207, 40, 212) ;
+    text-indent: 0% ;
+    letter-spacing: 50px ;
+}
+p.def{
+    size: 100 ;
+    color: rgb(163, 45, 45);
+    text-align: center;
+}
+img1 {
+
+}
